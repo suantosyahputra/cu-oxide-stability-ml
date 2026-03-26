@@ -172,8 +172,3 @@ However, precise thermodynamic prediction requires additional structural descrip
 * Apply graph neural networks (CGCNN, MEGNet)
 * Extend to other material systems (Ni–O, Fe–O, multi-component oxides)
 
----
-
-## Author
-
-Suanto Syahputra
