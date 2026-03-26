@@ -169,4 +169,3 @@ However, precise thermodynamic prediction requires additional structural descrip
 ## Author
 
 Suanto Syahputra
-PhD in Electrochemistry → transitioning into Data Science & AI for Materials
