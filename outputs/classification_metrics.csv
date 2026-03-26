@@ -1,0 +1,9 @@
+model,accuracy,f1,roc_auc
+XGBoost,0.775,0.7368,0.8532
+GradientBoosting,0.785,0.7329,0.8611
+RandomForest,0.77,0.7326,0.8563
+KNN,0.68,0.6322,0.7479
+NeuralNetwork,0.715,0.6275,0.7718
+GaussianNB,0.6,0.5833,0.6761
+LogisticRegression,0.685,0.5828,0.7602
+SVM,0.655,0.5106,0.7396
