@@ -1,5 +1,13 @@
 # Machine Learning-Based Stability Screening of Cu-Containing Oxides
 
+## Quick Summary
+
+- Dataset: ~1000 Cu-containing oxides from Materials Project
+- Task: Classify thermodynamic stability
+- Best Model: Gradient Boosting / XGBoost
+- Accuracy: ~78%
+- ROC-AUC: ~0.86
+
 ## Overview
 
 This project investigates whether composition-derived descriptors can be used to predict the thermodynamic stability of Cu-containing oxides using machine learning.
